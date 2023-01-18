@@ -1,0 +1,17 @@
+table {
+    border: solid black 1px;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: beige;
+}
+
+td {
+    border: solid black 1px ;
+    
+}
+
+.col-1 {
+    width: 300px;
+}
