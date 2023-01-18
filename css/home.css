@@ -1,14 +1,25 @@
 table {
-    border: solid black 1px;
-    border-collapse: collapse;
+    border: solid black 15px;
+    /* border-collapse: collapse; */
+    border: outset;
 }
 
 th {
+    border: solid black 1px ;
     background-color: beige;
+    
 }
+
+th:hover {
+    background-color: red;
+}
+
 
 td {
     border: solid black 1px ;
+    background-color: aliceblue;
+    text-align: center;
+    /* vertical-align: bottom; */
     
 }
 

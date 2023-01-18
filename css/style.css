@@ -1,5 +1,6 @@
 body {
     background-color: aqua;
+    margin: 0;
   
 }
 
@@ -9,24 +10,25 @@ body {
 
 #div1 {
     background-color: orange;
-    height: 15vh;
+    height: 10vh;
 }
 
 #div2 {
     background-color: red;
-    height: 85vh;
-    width: 10vw;
+    width: 10%;
+    height: 90vh;
     float: left;
 }
 
 #div3 {
     background-color: green;
-    width: 90vw;
-    height: 85vh;
+    width: 90%;
+    height: 90vh;
     float: left;
+    
 }
 
-.div2-menu {
+/* .div2-menu {
     background-color: yellow;
-    height: 5vh;
-}
+    height: 5%;
+} */
